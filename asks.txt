@@ -1,0 +1,1 @@
+fact: (inst cube1 cube)
